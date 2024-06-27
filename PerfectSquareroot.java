@@ -1,3 +1,4 @@
+package Practice;
 import java.util.Scanner;
 
 public class PerfectSquareroot {
@@ -21,6 +22,7 @@ public class PerfectSquareroot {
         Scanner sc= new Scanner(System.in);
         num=sc.nextInt();
         System.out.println("Perfect Square root of "+num+" = "+Sqrt(num));
+        sc.close();
     }
 }
 

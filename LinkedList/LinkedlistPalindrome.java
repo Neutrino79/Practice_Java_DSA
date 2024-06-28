@@ -1,4 +1,4 @@
-package Practice;
+package Practice.LinkedList;
 
 class ListNode {
     int val;

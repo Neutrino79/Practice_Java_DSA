@@ -1,7 +1,6 @@
-package Practice;
+package Practice.Array;
 
-public class temp {
-    //second largest elemnt
+public class SecondLargest {
     public static void main(String[] args) {
         int[] arr={6,3,5,1,8,2,7,2,2,3,1};
 
